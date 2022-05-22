@@ -49,7 +49,6 @@ PRODUCT_PACKAGES += \
     libexynoscamera3 \
     libhifistill \
     libopenvx \
-    libwrappergps \
     libOMX.Exynos.AVC.Encoder \
     libOMX.Exynos.HEVC.Encoder \
     libOMX.Exynos.HEVC.WFD.Encoder \
